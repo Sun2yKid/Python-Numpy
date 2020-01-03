@@ -6,6 +6,7 @@ NumPy is the fundamental package for scientific computing with Python. It contai
 * useful linear algebra, Fourier transform, and random number capabilities
 Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.
 Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
+
 refers:
  https://numpy.org/
  https://numpy.org/devdocs/user/quickstart.html
@@ -15,14 +16,7 @@ import numpy as np
 
 a = np.arange(15)
 print(a, type(a))
-'''
-[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14] <class 'numpy.ndarray'>
-'''
 
 a = a.reshape(3, 5)
 print(a, type(a))
-'''
-[[ 0  1  2  3  4]
- [ 5  6  7  8  9]
- [10 11 12 13 14]] <class 'numpy.ndarray'>
-'''
+
