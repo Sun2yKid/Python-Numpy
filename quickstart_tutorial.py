@@ -10,6 +10,7 @@ Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedil
 refers:
  https://numpy.org/
  https://numpy.org/devdocs/user/quickstart.html
+ https://numpy.org/devdocs/reference/index.html#reference
 """
 
 import numpy as np
