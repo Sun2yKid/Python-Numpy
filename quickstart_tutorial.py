@@ -11,6 +11,7 @@ refers:
  https://numpy.org/
  https://numpy.org/devdocs/user/quickstart.html
  https://numpy.org/devdocs/reference/index.html#reference
+ http://cs231n.github.io/python-numpy-tutorial/
 """
 
 import numpy as np
